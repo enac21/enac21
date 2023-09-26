@@ -53,11 +53,5 @@
       <img src="https://user-images.githubusercontent.com/96846797/200439999-e8bbcc40-4857-41a1-a039-54bdf8fd5437.png" alt="git" width="30" height="30"/> 
     </a>
   </p>
-  
-  
-
-  <p align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api?username=enac21&show_icons=true&discord_old_blurple&theme=transparent" width = 400>
-  </p>
 </body>
 </html>
